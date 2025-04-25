@@ -1,4 +1,6 @@
 # Demo
 This is my first repository
-my name is priya
+my name is Priya
+I am undergraduate student
+
 
